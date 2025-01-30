@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+
+.navbar {
+    margin: 0 100px;
+    display: flex;
+    height: 80px;
+    width: 83%;
+}
+
+#nav_name {
+    width:30%;
+    padding: 15px 0 0 15px;
+    font-size: x-large;
+    font-family: Roboto;
+}
+
+#nav_tabs {
+    display:flex;
+    justify-content: space-around;
+    width:30%;
+    font-size: large;
+    font-family: Roboto;
+}
+
+#mail {
+    display: flex;
+    justify-content: end;
+    width: 40%;
+}
+
+#mail_img {
+    padding-top: 15px;
+    width:30px;
+    height: 20px;
+}
+
+.hero {
+    display: flex;
+    height: 600px;
+    width: 83%;
+    margin: 0 100px;
+}
+
+#hero_text {
+    padding: 160px 20px 0 200px;
+    width: 50%;
+    
+}
+
+#hero_desp {
+    margin-top: 0px;
+    font-size: xxx-large;
+}
+
+#get_in_touch {
+    color: white;
+    background-color: black;
+    padding:10px;
+    border-radius: 20px;
+
+}
+
+#hero_img {
+    width: 50%;
+    padding-top: 150px;
+}
